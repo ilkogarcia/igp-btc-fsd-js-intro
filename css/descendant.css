@@ -1,0 +1,11 @@
+.classA.classB.classC {
+    display: block;
+}
+
+.classB.classC {
+    display: none;
+}
+
+.classC {
+    display: none;
+}
